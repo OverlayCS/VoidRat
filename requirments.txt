@@ -1,0 +1,5 @@
+requests
+discord.py
+mss
+cv2
+numpy
